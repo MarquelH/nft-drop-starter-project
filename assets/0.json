@@ -1,0 +1,19 @@
+{
+  "name": "THUGGER_NFT",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7z1ay81PugGCuiyaJrNciFQam35VHetBK3gCa1eGVRuv",
+        "share": 100
+      }
+    ]
+  }
+}
